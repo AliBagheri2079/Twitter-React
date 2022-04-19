@@ -1,0 +1,4 @@
+{
+  "twitterapi": "https://twitterapi.liara.run/api",
+  "localapi": "http://localhost:3000/api"
+}
